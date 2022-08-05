@@ -1,2 +1,2 @@
-meu-primeiro-projeto
+Projeto criado para estudo de GitHub.
 
